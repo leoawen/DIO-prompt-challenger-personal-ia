@@ -157,7 +157,7 @@ Baseado no biotipo, nos dias disponíveis e nos tipos de treino determinados, mo
 {{dias disponíveis: 3}}
 {{tipos de treino: Funcional, Maquinário, Cárdio}}
 
-<img src=".github/assets/Claude icon.png"> ### Claude 3.5 Sonnet
+### <img src=".github/assets/Claude icon.png"> Claude 3.5 Sonnet
 
 Entendido. Com base nas informações fornecidas, vou montar um treino personalizado para um indivíduo com biotipo Endomorfo, com 3 dias disponíveis para treino, utilizando exercícios funcionais, maquinário e cárdio. Vamos dividir o treino em um formato ABC, focando em diferentes grupos musculares em cada dia.
 
