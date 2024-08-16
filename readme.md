@@ -157,7 +157,8 @@ Baseado no biotipo, nos dias disponíveis e nos tipos de treino determinados, mo
 {{dias disponíveis: 3}}
 {{tipos de treino: Funcional, Maquinário, Cárdio}}
 
-Claude 3.5 Sonnet 
+<img src=".github/assets/Claude icon.png"> Claude 3.5 Sonnet
+
 Entendido. Com base nas informações fornecidas, vou montar um treino personalizado para um indivíduo com biotipo Endomorfo, com 3 dias disponíveis para treino, utilizando exercícios funcionais, maquinário e cárdio. Vamos dividir o treino em um formato ABC, focando em diferentes grupos musculares em cada dia.
 
 ### Treino A - Pernas e Glúteos
@@ -263,16 +264,24 @@ Intervalo: 45 segundos entre séries
 20 minutos de elíptico em intensidade moderada
 
 
-**Orientações adicionais:**
+### **Orientações adicionais:**
 
 **Hidratação:** Beba água antes, durante e após o treino para manter-se hidratado.
+
 **Aquecimento:** Sempre comece com o aquecimento para preparar o corpo e prevenir lesões.
+
 **Execução:** Foque na execução correta dos movimentos, priorizando a qualidade sobre a quantidade.
+
 **Progressão:** Aumente gradualmente o peso ou as repetições à medida que se sentir mais forte.
+
 **Respiração:** Mantenha uma respiração controlada durante os exercícios, geralmente exalando na fase concêntrica (esforço) e inalando na fase excêntrica (retorno).
+
 **Alimentação:** Como endomorfo, foque em uma dieta balanceada com déficit calórico moderado para perda de gordura.
+
 **Descanso:** Garanta um sono adequado (7-9 horas por noite) para recuperação muscular.
+
 **Consistência:** Mantenha-se consistente com o treino e a dieta para ver resultados.
+
 **Adaptações:** Este treino pode ser ajustado conforme sua evolução e necessidades específicas.
 
 Lembre-se de ouvir seu corpo e não hesitar em buscar orientação médica se sentir qualquer dor ou desconforto incomum. Boa sorte com seu novo programa de treinamento!
