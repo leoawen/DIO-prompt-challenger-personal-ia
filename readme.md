@@ -160,118 +160,120 @@ Baseado no biotipo, nos dias disponíveis e nos tipos de treino determinados, mo
 Claude 3.5 Sonnet 
 Entendido. Com base nas informações fornecidas, vou montar um treino personalizado para um indivíduo com biotipo Endomorfo, com 3 dias disponíveis para treino, utilizando exercícios funcionais, maquinário e cárdio. Vamos dividir o treino em um formato ABC, focando em diferentes grupos musculares em cada dia.
 
-Treino A - Pernas e Glúteos
+### Treino A - Pernas e Glúteos
 
-Aquecimento (10 minutos): 5 minutos de caminhada na esteira 5 minutos de mobilidade articular
+**Aquecimento (10 minutos):
+**5 minutos de caminhada na esteira
+5 minutos de mobilidade articular
 
-Agachamento no smith (Maquinário):
-4 séries de 12-15 repetições
+**Agachamento no smith (Maquinário):
+**4 séries de 12-15 repetições
 Intervalo: 60 segundos entre séries
 
-Leg Press 45° (Maquinário):
-4 séries de 12-15 repetições
+**Leg Press 45° (Maquinário):
+**4 séries de 12-15 repetições
 Intervalo: 60 segundos entre séries
 
-Avanço com halteres (Funcional):
-3 séries de 12 repetições por perna
+**Avanço com halteres (Funcional):
+**3 séries de 12 repetições por perna
 Intervalo: 45 segundos entre séries
 
-Cadeira Extensora (Maquinário):
-3 séries de 15-20 repetições
+**Cadeira Extensora (Maquinário):
+**3 séries de 15-20 repetições
 Intervalo: 45 segundos entre séries
 
-Elevação pélvica no solo (Funcional):
-3 séries de 15-20 repetições
+**Elevação pélvica no solo (Funcional):
+**3 séries de 15-20 repetições
 Intervalo: 45 segundos entre séries
-
-Panturrilha no leg press (Maquinário):
+**
+Panturrilha no leg press (Maquinário):**
 4 séries de 20-25 repetições
 Intervalo: 30 segundos entre séries
 
-Cárdio final:
+**Cárdio final:**
 20 minutos de esteira em intensidade moderada
 
 
-Treino B - Peito, Ombros e Tríceps
+### Treino B - Peito, Ombros e Tríceps
 
-Aquecimento (10 minutos):
+**Aquecimento (10 minutos):**
 5 minutos de elíptico
 5 minutos de mobilidade articular
 
-Supino máquina (Maquinário):
+**Supino máquina (Maquinário):**
 4 séries de 12-15 repetições
 Intervalo: 60 segundos entre séries
 
-Desenvolvimento de ombros na máquina (Maquinário):
+**Desenvolvimento de ombros na máquina (Maquinário):**
 4 séries de 12-15 repetições
 Intervalo: 60 segundos entre séries
 
-Flexão de braço com joelhos apoiados (Funcional):
+**Flexão de braço com joelhos apoiados (Funcional):**
 3 séries até a falha
 Intervalo: 45 segundos entre séries
 
-Tríceps no pulley (Maquinário):
+**Tríceps no pulley (Maquinário):**
 3 séries de 15-20 repetições
 Intervalo: 45 segundos entre séries
 
 
-Elevação lateral com halteres (Funcional):
+**Elevação lateral com halteres (Funcional):**
 3 séries de 12-15 repetições
 Intervalo: 45 segundos entre séries
 
-Mergulho entre bancos para tríceps (Funcional):
+**Mergulho entre bancos para tríceps (Funcional):**
 3 séries até a falha
 Intervalo: 45 segundos entre séries
 
-Cárdio final:
+**Cárdio final:**
 20 minutos de bicicleta ergométrica em intensidade moderada
 
 
-Treino C - Costas e Bíceps
+### Treino C - Costas e Bíceps
 
-Aquecimento (10 minutos):
+**Aquecimento (10 minutos):**
 5 minutos de remo
 5 minutos de mobilidade articular
 
-Puxada frontal na máquina (Maquinário):
+**Puxada frontal na máquina (Maquinário):**
 4 séries de 12-15 repetições
 Intervalo: 60 segundos entre séries
 
-Remada baixa na máquina (Maquinário):
+**Remada baixa na máquina (Maquinário):**
 4 séries de 12-15 repetições
 Intervalo: 60 segundos entre séries
 
-Remada curvada com halteres (Funcional):
+**Remada curvada com halteres (Funcional):**
 3 séries de 12-15 repetições
 Intervalo: 45 segundos entre séries
 
-Rosca direta na máquina (Maquinário):
+**Rosca direta na máquina (Maquinário):**
 3 séries de 12-15 repetições
 Intervalo: 45 segundos entre séries
 
-Prancha (Funcional):
+**Prancha (Funcional):**
 3 séries de 30-45 segundos
 Intervalo: 30 segundos entre séries
 
-Rosca martelo com halteres (Funcional):
+**Rosca martelo com halteres (Funcional):**
 3 séries de 12-15 repetições
 Intervalo: 45 segundos entre séries
 
-Cárdio final:
+**Cárdio final:**
 20 minutos de elíptico em intensidade moderada
 
 
-Orientações adicionais:
+**Orientações adicionais:**
 
-Hidratação: Beba água antes, durante e após o treino para manter-se hidratado.
-Aquecimento: Sempre comece com o aquecimento para preparar o corpo e prevenir lesões.
-Execução: Foque na execução correta dos movimentos, priorizando a qualidade sobre a quantidade.
-Progressão: Aumente gradualmente o peso ou as repetições à medida que se sentir mais forte.
-Respiração: Mantenha uma respiração controlada durante os exercícios, geralmente exalando na fase concêntrica (esforço) e inalando na fase excêntrica (retorno).
-Alimentação: Como endomorfo, foque em uma dieta balanceada com déficit calórico moderado para perda de gordura.
-Descanso: Garanta um sono adequado (7-9 horas por noite) para recuperação muscular.
-Consistência: Mantenha-se consistente com o treino e a dieta para ver resultados.
-Adaptações: Este treino pode ser ajustado conforme sua evolução e necessidades específicas.
+**Hidratação:** Beba água antes, durante e após o treino para manter-se hidratado.
+**Aquecimento:** Sempre comece com o aquecimento para preparar o corpo e prevenir lesões.
+**Execução:** Foque na execução correta dos movimentos, priorizando a qualidade sobre a quantidade.
+**Progressão:** Aumente gradualmente o peso ou as repetições à medida que se sentir mais forte.
+**Respiração:** Mantenha uma respiração controlada durante os exercícios, geralmente exalando na fase concêntrica (esforço) e inalando na fase excêntrica (retorno).
+**Alimentação:** Como endomorfo, foque em uma dieta balanceada com déficit calórico moderado para perda de gordura.
+**Descanso:** Garanta um sono adequado (7-9 horas por noite) para recuperação muscular.
+**Consistência:** Mantenha-se consistente com o treino e a dieta para ver resultados.
+**Adaptações:** Este treino pode ser ajustado conforme sua evolução e necessidades específicas.
 
 Lembre-se de ouvir seu corpo e não hesitar em buscar orientação médica se sentir qualquer dor ou desconforto incomum. Boa sorte com seu novo programa de treinamento!
 
